@@ -1,17 +1,14 @@
-👋 Hi, I’m Nate (UnrealNova)
+Hi, I’m Nate (UnrealNova), a Gameplay Engineer specializing in Unreal Engine 5 (C++ and Blueprint systems).
 
-🎮 Gameplay Engineer specializing in Unreal Engine 5 (C++ & Blueprint systems)
+I build modular, data-driven gameplay systems with a focus on combat feel, rapid iteration, and scalable architecture.
 
-🧠 I design modular, data-driven gameplay architecture focused on combat feel, rapid iteration, and clean, scalable systems
+B.S. in Computer Science – Game Development & Software Programming  
+Southern New Hampshire University
 
-🎓 B.S. in Computer Science – Game Development & Software Programming, Southern New Hampshire University
+Currently developing gameplay system prototypes and portfolio projects targeting AAA gameplay engineering roles.
 
-🚀 Currently building gameplay system prototypes and portfolio projects targeting AAA gameplay engineering roles
+Focus Areas: Gameplay Systems, Ability Design, Resource Mechanics, UI Integration
 
-📫 Contact: Starsetnova1157@gmail.com
+Contact: Starsetnova1157@gmail.com
 
-🔧 10 years in automotive/diesel mechanics — bringing mechanical intuition, structured troubleshooting, and disciplined execution into software development
-<!---
-UnrealNova/UnrealNova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to view your changes.
---->
+Former automotive/diesel mechanic (10+ years), bringing strong diagnostic thinking, systems-level problem solving, and disciplined execution into software development.
